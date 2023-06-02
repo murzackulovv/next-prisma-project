@@ -6,7 +6,7 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
+# https://github.com/murzackulovv/next-prisma-project.git
 yarn dev
 # or
 pnpm dev
